@@ -1,0 +1,17 @@
+#v {
+	display: block;
+	margin: auto;
+	margin-top: 20px;
+	width: 300px;
+	height: auto;
+	-webkit-transform: scaleX(-1); /* 좌우반전 */
+	-webkit-mask-image: url(../img/circle.png);
+	-webkit-mask-size: 130px 130px;
+	-webkit-mask-position: center;
+	-webkit-mask-repeat: no-repeat;
+}
+
+
+#bt-capture {
+	
+}
